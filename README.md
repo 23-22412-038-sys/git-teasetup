@@ -1,6 +1,7 @@
-# Students List
+# Student List
 
 | Name | Roll Number |
 |------|--------------|
-| Alice Doe | 123 |
-| Bob Ray   | 124 |
+| Inshal Nasir | 12345 |
+| Abdullah   | 123456 |
+|Sara Khan    |123467|
